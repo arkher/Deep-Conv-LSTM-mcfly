@@ -1,0 +1,1 @@
+python LSTM_mcfly.py 2 Falta_de_Energia/cemar_dataset_TRAIN.csv Falta_de_Energia/cemar_dataset_TEST.csv --predict_path Falta_de_Energia (--class_weight 1)

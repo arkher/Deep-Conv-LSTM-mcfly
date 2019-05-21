@@ -1,0 +1,1 @@
+python LSTM_mcfly_base_toda.py 2 C:/Users/usuario/Documents/sprint8/CNR_COMPLETA/classe0.csv C:/Users/usuario/Documents/sprint8/CNR_COMPLETA/classe1.csv C:/Users/usuario/Documents/sprint8/CNR_COMPLETA/TEST.csv --predict_path C:/Users/usuario/Documents/sprint8/LSTM/CNR_Completa_result
